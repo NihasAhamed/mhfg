@@ -1,7 +1,8 @@
 import java.util.*;
 import java.lang.*;
 public class s {
-     public static void main(String aa[]){
+     public static void main(String a[])
+     {
      int a;
      int b;
      int t;
